@@ -9,9 +9,6 @@ class India extends Application
 		parent::__construct();
 	}
 
-	/**
-	 * Homepage for our app
-	 */
    public function index() {
      // The following should be a relative link to your image file above
     $source = '../data/dog.jpg';
