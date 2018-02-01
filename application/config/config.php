@@ -13,8 +13,9 @@ $config['menu_choices'] = array(
         array('name' => 'Golf', 'link' => '/i/need/a/hobby'),
         array('name' => 'Hotel', 'link' => '/bananas/rule'),
         array('name' => 'India', 'link' => '/india'),
-        array('name' => 'Juliet', 'link' => '#'),
-        array('name' => 'Kilo', 'link' => '/show/2')
+        array('name' => 'Juliet', 'link' => '/juliet'),
+        array('name' => 'Kilo', 'link' => '/show/2'),
+        )
     );
 
 /*
